@@ -1,4 +1,4 @@
-package org.king;
+package org.king.libDep5;
 
 import org.junit.jupiter.api.Test;
 
