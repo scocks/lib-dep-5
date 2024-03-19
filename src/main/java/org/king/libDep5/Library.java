@@ -1,4 +1,4 @@
-package org.king.libDep5;
+package org.king.libdep5;
 public class Library {
     public String[] count(Integer number) {
         String[] lines = new String[number];
